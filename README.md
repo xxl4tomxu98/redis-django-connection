@@ -24,7 +24,7 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install wheel
 pip install -r requirements.txt
-python manage.py django_redis_demo/runserver
+python django_redis_demo/manage.py runserver
 ```
 
 Send requests to `http://localhost:8000/api/items`
