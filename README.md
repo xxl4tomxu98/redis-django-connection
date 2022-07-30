@@ -1,6 +1,6 @@
 # Django_Redis
 
-This repository contains the code for this [blogpost](https://stackabuse.com/working-with-redis-in-python-with-django/).
+This repository demonstrates redis-server as a Django App database and contains the code for this [blogpost](https://stackabuse.com/working-with-redis-in-python-with-django/).
 
 ## Running the Application
 
